@@ -1,0 +1,3 @@
+Git command line used to update the main branch:
+git pull origin main
+
